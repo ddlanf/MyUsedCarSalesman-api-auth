@@ -41,7 +41,7 @@ The endpoints this API provides include the following.
 - Node.js (Express)
 - JWT Token Authentication
 - PostgreSQL
-- Heroku Server and Database (Deployment)
+- Azure Web App and Database (Deployment)
 - Testing with Mocha, Chai, and Supertest
  
 ## Running the server with client locally
